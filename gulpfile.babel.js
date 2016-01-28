@@ -47,7 +47,7 @@ gulp.task('lint', function() {
 
 // ***************************** run unit test
 gulp.task('test', function () {
-	return gulp.src('./test/spec/*.js')
+	return gulp.src('./test/spec/**/*.js')
 		.pipe(jasmine())
         .pipe(babel({
             "presets": ["es2015"]
