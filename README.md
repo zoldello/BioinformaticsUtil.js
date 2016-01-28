@@ -1,7 +1,7 @@
 # BioinformaticsUtil.js
 Bioinformatics Utility-Belt Library 
 
-This is a JavaScript Bioinformatics utility library. It is in version 0.0.1- basically its pre-alpha. 
+This is a JavaScript Bioinformatics utility library. It is an implementation of Rosalind.org exercies. This app is pre-alpha. 
 
 The files of interest are in dist folder and they do:
 
